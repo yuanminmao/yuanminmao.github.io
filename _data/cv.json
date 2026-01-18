@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yuanmin Mao",
+    "email": "maoyuanmin@mail.ustc.edu.cn",
+    "phone": "+86 139 6665 4067",
+    "website": "https://yuanminmao.github.io",
+    "summary": "Currently study at University of Science and Technology of China.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hefei, China",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0001-4977-8783"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yuanminmao",
+        "url": "https://github.com/yuanminmao"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "The",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
