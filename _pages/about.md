@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I'm a Astronomer at the University of Science and Technology of China.
