@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yuanmin Mao (毛 \ 元敏), an astronomer at the University of Science and Technology of China (USTC).
+I'm Yuanmin Mao (毛元敏), an astronomer at the University of Science and Technology of China (USTC).
