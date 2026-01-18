@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yuanmin Mao"
+title                    : "Mao's Homepage"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "I'm a graduate student at the USTC"  # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "yuanminmao/yuanminmao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Yuanmin Mao"
   pronouns         : # example: "she/her"  
   bio              : "Astronomer"
